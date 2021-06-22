@@ -1,0 +1,8 @@
+https://www.xtento.com/
+
+licenses:
+store.calvocover.com	:    a47dd1178c275566e579a73910e97aa374f83c64
+calvocover.com   	:    1b97abd3853c3efe0b9c7d53c566470346526e72	
+
+Email : service@calvocover.com
+Password: Rashed86$$
